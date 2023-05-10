@@ -1,3 +1,3 @@
 # SQL
 
-Includes all SQL codes used for portfolio projects 
+Includes all SQL codes used for portfolio projects.
